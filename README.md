@@ -2,7 +2,7 @@
 
 This jupyter notebook exists to support the ISSI 2021 RIP paper "Datasets on DataCite - An initial bibliometric investigation" by Anton Ninkov, Kathleen Gregory, Isabella Peters, and Stefanie Haustein. Using this notebook, you can see a breakdown of the nuber of datasets on DataCite by fields of science, published years, citations, licenses, and languages. The treemap at the end specifically shows the breakdown of fields of science.
 
-You can see the notebook here: 
+You can see a static version notebook here: 
 https://nbviewer.org/github/antonninkov/ISSI2021/blob/main/ISSI_2021_final.ipynb
 
 
