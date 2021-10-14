@@ -4,5 +4,6 @@ This jupyter notebook exists to support the ISSI 2021 RIP paper "Datasets on Dat
 
 Use the binder button below to launch the jupyter notebook. If images in the notebook are not displayed immediately, re-run the code.
 
+https://nbviewer.org/github/antonninkov/ISSI2021/blob/main/ISSI_2021_final.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/antonninkov/ISSI2021/HEAD)
